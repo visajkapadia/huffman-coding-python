@@ -128,17 +128,3 @@ print("d: ", mydict['d'])
 print("e: ", mydict['e'])
 print("f: ", mydict['f'])
 print("g: ", mydict['g'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
